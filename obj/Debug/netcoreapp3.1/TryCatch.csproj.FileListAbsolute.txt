@@ -1,0 +1,13 @@
+D:\Новая папка\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+D:\Новая папка\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+D:\Новая папка\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+D:\Новая папка\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+D:\Новая папка\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+D:\Новая папка\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csprojAssemblyReference.cache
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+D:\Новая папка\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
