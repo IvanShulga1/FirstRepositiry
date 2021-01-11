@@ -6,6 +6,7 @@ namespace TryCatch
     {
         static void Main()
         {
+            Console.BackgroundColor = ConsoleColor.Red;
             var person = new Person();
 
             DisplayMessages.Instants.ShowHello();

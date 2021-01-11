@@ -16,7 +16,6 @@ namespace TryCatch
             Console.Write(Constants.InputAndExeptionsConstants.FirstSign);
             Console.WriteLine(Constants.InputAndExeptionsConstants.FirstAction);
 
-
             Console.Write(Constants.InputAndExeptionsConstants.SecondSign);
             Console.WriteLine(Constants.InputAndExeptionsConstants.SecondAction);
             var person = new Person();
